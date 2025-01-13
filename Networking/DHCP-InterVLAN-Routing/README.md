@@ -29,4 +29,6 @@ This project demonstrates the configuration of a **DHCP server on a router** to 
 - Deepened understanding of VLANs, Inter-VLAN Routing, and DHCP.
 - Gained hands-on experience in troubleshooting DHCP and routing configurations.
 ## Files Included
+## Files Included
+- **Packet Tracer File:** [Download Here](./PacketTracerFiles/networkproject.pkt)
 
