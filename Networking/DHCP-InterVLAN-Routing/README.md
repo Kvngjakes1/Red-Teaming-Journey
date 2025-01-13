@@ -8,7 +8,9 @@ This project demonstrates the configuration of a **DHCP server on a router** to 
   - 1 Router
   - 1 Switch
   - 6 PCs (2 assigned to each VLAN)
-
+## Demo
+Here’s a walkthrough of the project setup and testing:
+![Project Walkthrough](./Assets/network-project.gif)
 ## Project Steps
 ### Step 1: VLAN Configuration on the Switch
 - Created VLANs and assigned them to their respective switch ports.
