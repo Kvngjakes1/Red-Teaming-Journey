@@ -30,5 +30,5 @@ This project demonstrates the configuration of a **DHCP server on a router** to 
 - Gained hands-on experience in troubleshooting DHCP and routing configurations.
 ## Files Included
 ## Files Included
-- **Packet Tracer File:** [Download Here](./PacketTracerFiles/networkproject.pkt)
+- **Packet Tracer File:** [Download Here](Networking/DHCP-InterVLAN-Routing/PacketTracerFiles/PacketTracerFiles)
 
